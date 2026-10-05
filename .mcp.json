@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "roleready": {
+      "type": "http",
+      "url": "https://roleready.designxdevelop.workers.dev/api/mcp"
+    }
+  }
+}
