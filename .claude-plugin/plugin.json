@@ -12,5 +12,7 @@
   "repository": "https://github.com/designxdevelop/roleready-plugin",
   "documentationUrl": "https://roleready.designxdevelop.workers.dev/support",
   "supportUrl": "https://roleready.designxdevelop.workers.dev/support",
-  "termsOfServiceUrl": "https://roleready.designxdevelop.workers.dev/terms"
+  "termsOfServiceUrl": "https://roleready.designxdevelop.workers.dev/terms",
+  "displayName": "RoleReady",
+  "icon": "./assets/icon.png"
 }
