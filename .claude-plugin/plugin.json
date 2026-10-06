@@ -6,5 +6,6 @@
     "email": "austin@designxdevelop.com"
   },
   "description": "Import reviewed evidence, tailor grounded resumes, approve changes, and export documents.",
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "privacyPolicyUrl": "https://roleready.designxdevelop.workers.dev/privacy"
 }
