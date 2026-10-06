@@ -1,6 +1,10 @@
 {
   "name": "roleready",
-  "version": "0.1.1",
-  "author": { "name": "Design X Develop LLC", "email": "austin@designxdevelop.com" },
-  "description": "Import reviewed evidence, tailor grounded resumes, approve changes, and export documents."
+  "version": "0.1.2",
+  "author": {
+    "name": "Design X Develop LLC",
+    "email": "austin@designxdevelop.com"
+  },
+  "description": "Import reviewed evidence, tailor grounded resumes, approve changes, and export documents.",
+  "license": "Proprietary"
 }
