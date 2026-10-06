@@ -7,5 +7,10 @@
   },
   "description": "Import reviewed evidence, tailor grounded resumes, approve changes, and export documents.",
   "license": "Proprietary",
-  "privacyPolicyUrl": "https://roleready.designxdevelop.workers.dev/privacy"
+  "privacyPolicyUrl": "https://roleready.designxdevelop.workers.dev/privacy",
+  "homepage": "https://roleready.designxdevelop.workers.dev/",
+  "repository": "https://github.com/designxdevelop/roleready-plugin",
+  "documentationUrl": "https://roleready.designxdevelop.workers.dev/support",
+  "supportUrl": "https://roleready.designxdevelop.workers.dev/support",
+  "termsOfServiceUrl": "https://roleready.designxdevelop.workers.dev/terms"
 }
